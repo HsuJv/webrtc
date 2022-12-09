@@ -40,3 +40,9 @@ bench = false
 name = "pong"
 path = "examples/pong.rs"
 bench = false
+
+
+[[example]]
+name = "throughput"
+path = "examples/throughput.rs"
+bench = false
